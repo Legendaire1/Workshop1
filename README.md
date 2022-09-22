@@ -1,3 +1,3 @@
-# Workshop1
+# Workshop
 Jeffrey Zou
-Pd. 2 Software Dev
+Software Dev 2022-23
