@@ -48,3 +48,4 @@ INVESTIGATIVE APPROACH:
     127.0.0.1 - - [03/Oct/2022 20:56:38] "GET /favicon.ico HTTP/1.1" 404 -
 * When we visited the http://127.0.0.1:5000 page, we saw "No hablo queso!" on the page.
 * We tried modifying the "/" on line 13. We changed it to "/testing," and we didn't receive any errors in the console, but when we opened the webapge, we received a URL Not Found message. We changed back to "/"
+'''
