@@ -1,6 +1,9 @@
-# Clyde 'Thluffy' Sinclair
+# GGG Rendition #2: Vivian Graeber, Jeffrey Zou, Kevin Xiao + Squishy, Like, FamousMrTable
 # SoftDev
 # Oct 2022
+
+# DEMO 
+# basics of /static folder
 
 from flask import Flask, render_template #Q0: What will happen if you remove render_template from this line? (log your prediction before you pull the trigger...)
 #q0: We know it will return anything
